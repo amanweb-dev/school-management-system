@@ -1,0 +1,4 @@
+[18-Sep-2020 04:04:57 UTC] PHP Notice:  Undefined variable: current_class in /home/amanonli/public_html/Student/my_std_profile.php on line 117
+[18-Sep-2020 04:04:57 UTC] PHP Notice:  Undefined variable: current_sub in /home/amanonli/public_html/Student/my_std_profile.php on line 121
+[21-Sep-2020 15:06:57 UTC] PHP Notice:  Undefined variable: id in /home/amanonli/public_html/Student/show_solution.php on line 99
+[28-Sep-2020 12:01:04 UTC] PHP Notice:  Undefined variable: id in /home/amanonli/public_html/Student/show_solution.php on line 99
